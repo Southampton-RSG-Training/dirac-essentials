@@ -1,6 +1,7 @@
 ---
 title: "Scripts, variables, and loops"
 slug: dirac-bash-writing-scripts-scripts-variables-loops
+colour: "#fcffcc"
 teaching: 45
 exercises: 10
 questions:

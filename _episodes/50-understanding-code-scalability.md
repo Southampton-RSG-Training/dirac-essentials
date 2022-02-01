@@ -1,6 +1,7 @@
 ---
 title: "Understanding Code Scalability"
 slug: dirac-code-scaling-understanding-code-scalability
+colour: "#fcffcc"
 teaching: 0
 exercises: 0
 questions:
