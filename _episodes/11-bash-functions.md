@@ -1,6 +1,6 @@
 ---
-title: "Bash: Writing Basic Scripts"
-colour: "#fcffcc"
+title: "Functions in Bash"
+slug: dirac-bash-writing-scripts-functions-bash
 teaching: 25 
 exercises: 10
 questions:
